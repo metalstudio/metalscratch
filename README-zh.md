@@ -1,7 +1,7 @@
 # Metal Scratch
-README: [English](https://github.com/metalstudio/metalscratch-src/blob/master/README.md) | [中文](https://github.com/metalstudio/metalscratch-src/blob/master/README-zh.md)
-一个类似于scratch的少儿编程平台。
-请将问题提交给相应的项目，这将有助于我们更容易地跟踪问题，以便我们能够及时为您提供帮助。
+## README: [English](https://github.com/metalstudio/metalscratch-src/blob/master/README.md) | [中文](https://github.com/metalstudio/metalscratch-src/blob/master/README-zh.md)
+## 一个类似于scratch的少儿编程平台。
+## 请将问题提交给相应的项目，这将有助于我们更容易地跟踪问题，以便我们能够及时为您提供帮助。
 ## 特性
 1. *在终端即可运行*
 2. *有很多语言包*

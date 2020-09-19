@@ -1,7 +1,7 @@
 # Metal Scratch
-README: [English](https://github.com/metalstudio/metalscratch-src/blob/master/README.md) | [中文](https://github.com/metalstudio/metalscratch-src/blob/master/README-zh.md)
-A new generation of scratch editor.You can learn program by building blocks.
-Please submit issues to corresponding projects, that'll help us make issues tracking easier so that we can provide timely help to you. 
+## README: [English](https://github.com/metalstudio/metalscratch-src/blob/master/README.md) | [中文](https://github.com/metalstudio/metalscratch-src/blob/master/README-zh.md)
+## A new generation of scratch editor.You can learn program by building blocks.
+## Please submit issues to corresponding projects, that'll help us make issues tracking easier so that we can provide timely help to you. 
 ## Features
 1. *Built-In Terminal*
 2. *Language Tools*
